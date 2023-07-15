@@ -2,6 +2,7 @@
 
 ## Pagination Page
 
+#### CSS
 ```css
 li {
     cursor: pointer;
@@ -12,13 +13,14 @@ li {
     cursor: no-drop;
 }
 ```
-
+#### HTML
 ```html
 <div id="getTable">
         
  </div>
 ```
 
+#### Javascript
 ```javascript
 
 getTable('1')
